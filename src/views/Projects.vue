@@ -8,30 +8,30 @@ import Fade from "../components/Fade.vue";
 const projects = [
     {
         name: "真有愛",
-        description: "This is a project description. " + random_text(64),
+        description: "去相信世界有愛吧" + random_text(64),
         image: "https://picsum.photos/640/320",
-        link: "https://github.com",
+        link: "https://zh.wikipedia.org/wiki/%E6%84%9B",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
         name: "寫出愛",
-        description: "This is a project description. " + random_text(64),
+        description: "寫出愛的感情 " + random_text(64),
         image: "https://picsum.photos/640/320",
-        link: "https://github.com",
+        link: "https://zh.wikipedia.org/wiki/%E6%84%9B",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
         name: "學會愛",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
-        link: "https://github.com",
+        link: "https://zh.wikipedia.org/wiki/%E6%84%9B",
         tags: ["tag1", "tag2", "tag3"],
     },
     {
         name: "做出愛",
         description: "This is a project description. " + random_text(64),
         image: "https://picsum.photos/640/320",
-        link: "https://github.com",
+        link: "https://zh.wikipedia.org/wiki/%E6%84%9B",
         tags: ["tag1", "tag2", "tag3"],
     },
 ];

@@ -14,6 +14,9 @@ const step = ref(0);
             class="mb-8 block text-2xl sm:text-3xl lg:text-4xl"
         />
 
-        <Typing v-if="step >= 1" @done="step++" text="我是愛的小屋管理人 Dr.Tim" />
+        <Typing v-if="step >= 1" @done="step++" text="我是愛的小屋管理人 Dr.Tim
+        我看你是不懂喔
+        讓我來教教你吧
+        始於愛的課程" />
     </div>
 </template>
