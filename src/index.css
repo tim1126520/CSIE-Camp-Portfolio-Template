@@ -14,7 +14,7 @@ body,
 }
 
 #app {
-    @apply fixed top-0 left-0 bg-rose-200;
+    @apply fixed top-0 left-0 bg-rose-300;
 }
 
 @font-face {
